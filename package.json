@@ -1,0 +1,27 @@
+{
+  "name": "vscode-training-node",
+  "version": "0.0.1",
+  "description": "Node example project for VSCode Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhinojosa/vscode-training-node.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node",
+    "VSCode"
+  ],
+  "author": "Daniel Hinojosa <dhinojosa@evolutionnext.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhinojosa/vscode-training-node/issues"
+  },
+  "homepage": "https://github.com/dhinojosa/vscode-training-node#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
