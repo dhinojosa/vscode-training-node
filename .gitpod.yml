@@ -1,6 +1,6 @@
 tasks:
   - init: >
-      nvm install 14 &&
-      nvm use 14 &&
+      nvm install 21.6.2 &&
+      nvm use 21.6.2 &&
       npm install
     command: npm run start
