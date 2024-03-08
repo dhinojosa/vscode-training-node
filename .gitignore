@@ -30,7 +30,6 @@ bower_components
 
 # IDE/Editor directories
 .idea
-.vscode
 *.swp
 *.swo
 *.sublime-project
