@@ -1,4 +1,5 @@
 const assert = require('assert');
+const Wallet = require('../src/Wallet');
 
 describe('Wallet', function() {
    describe("isEmpty()", function() {
