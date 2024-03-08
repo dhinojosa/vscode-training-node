@@ -4,3 +4,7 @@ tasks:
       nvm use 21.6.2 &&
       npm install
     command: npm run start
+vscode:
+  extensions:
+    - "hbenl.vscode-mocha-test-adapter"
+      
